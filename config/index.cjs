@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '5c879e1fe394d98bfc9032ec1b10be2c',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '上海',
+  CITY: '上海',
 
   USERS: [
     {
